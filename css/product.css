@@ -2073,6 +2073,8 @@ a:hover.back-to-top {
 
 
 	/* Extra Pages */
+
+	/*background untuk artikel*/
 	.ex-header {
 		background: url('../images/Artikel/artikel_galamilk.png') center center no-repeat;
 		background-size: cover;
@@ -2164,6 +2166,13 @@ a:hover.back-to-top {
 		margin-left: 1rem;
 	}
 	/* end of details 1 */
+	
+   /*backgriund for basic-1*/
+	.basic-1 { 
+		background-image: url("/images/Artikel/body_articlegalamilk.png");
+		background-size:cover;
+		
+	}
 
 
 	/* Details 2 */
