@@ -1268,7 +1268,9 @@ input[type='checkbox'] {
 .slider-2 {
 	padding-top: 7.5rem;
 	padding-bottom: 7rem;
-	background: url('../images/testimonials-background.jpg') center center no-repeat;
+	/*background  untuk  testimoni produk terkait dengan  produk yang dijual*/
+	/*background: url('../images/testimonials-background.jpg') center center no-repeat;*/
+	background: url('../images/testimonigalamilk.gif') center center no-repeat;
 	background-size: cover; 
 }
 
