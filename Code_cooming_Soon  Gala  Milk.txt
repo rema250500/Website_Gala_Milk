@@ -135,6 +135,28 @@ Code untuk Promo Produk Gala  Milk
 
 
 
+facebook & instagram  anggota usaha  grha milk
+
+
+                      <span class="social-icons">
+                            <span class="fa-stack">
+                                <a href="#your-link">
+                                    <i class="fas fa-circle fa-stack-2x facebook"></i>
+                                    <i class="fab fa-facebook-f fa-stack-1x"></i>
+                                </a>
+                            </span>
+                            <span class="fa-stack">
+                                <a href="#your-link">
+                                    <i class="fas fa-circle fa-stack-2x instagram"></i>
+                                    <i class="fab fa-instagram fa-stack-1x"></i>
+                                </a>
+                            </span>
+                        </span>
+
+
+
+
+
 
 
 testimoni
