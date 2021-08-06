@@ -1157,8 +1157,6 @@ input[type='checkbox'] {
 }
 
 
-
-
 /*image for article*/
 
 .image-article img{
@@ -2086,7 +2084,7 @@ a:hover.back-to-top {
 
 	/* Extra Pages */
 	.ex-header {
-		background: url('../images/Artikel/halamanutama_galamilk.png') center center no-repeat;
+		background: url('../images/Artikel/artikel_galamilk.png') center center no-repeat;
 		background-size: cover;
 	}
 
