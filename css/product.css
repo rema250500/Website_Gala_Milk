@@ -58,6 +58,8 @@ body, p {
 .p-large {
 	font: 400 1rem/1.5rem "Raleway", sans-serif;
 }
+
+/*Untuk merubah bentuk  font dari paragraph  artikel*/
 .p-paragraph{
 	font-family:'Dosis', sans-serif;
 }
