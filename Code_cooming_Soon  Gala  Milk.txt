@@ -1,8 +1,6 @@
 
 
-Code untuk Promo Produk Gala  Milk
-
-
+Code untuk Promo Produk Gala  Milk (bisa sebagai bentuk promosi Pre order)
 
 
 <!-- Pricing -->
