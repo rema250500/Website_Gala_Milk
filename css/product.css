@@ -124,11 +124,11 @@ a.white {
 }
 
 .testimonial-text {
-	font: italic 400 1rem/1.5rem "Raleway", sans-serif;
+	font: italic 400 1rem/1.5rem 'Dosis', sans-serif;
 }
 
 .testimonial-author {
-	font: 700 1rem/1.5rem "Raleway", sans-serif;
+	font: 700 1rem/1.5rem 'Dosis', sans-serif;
 }
 
 .turquoise {
