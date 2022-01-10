@@ -122,9 +122,9 @@ a.turquoise {
 a.white {
 	color: #fff;
 }
-
+/*Memgubah  font testimoni menjadi quicksand*/
 .testimonial-text {
-	font: italic 400 1rem/1.5rem 'Dosis', sans-serif;
+	font: italic 400 1rem/1.5rem 'Quicksand', sans-serif;
 }
 
 .testimonial-author {
@@ -1003,6 +1003,7 @@ input[type='checkbox'] {
 }
 
 .cards-2 .card {
+      font-family:dosis;
 	display: block;
 	max-width: 19.5rem;
 	margin-right: auto;
@@ -1028,6 +1029,7 @@ input[type='checkbox'] {
 
 .cards-2 .card .card-subtitle {
 	margin-bottom: 1.75rem;
+	font-family:quicksand;
 }
 
 .cards-2 .card .cell-divide-hr {
@@ -1271,7 +1273,6 @@ input[type='checkbox'] {
 	text-align: center;
 }
 
-
 /****************************/
 /*     13. Testimonials     */
 /****************************/
@@ -1280,7 +1281,8 @@ input[type='checkbox'] {
 	padding-bottom: 7rem;
 	/*background  untuk  testimoni produk terkait dengan  produk yang dijual*/
 	/*background: url('../images/testimonials-background.jpg') center center no-repeat;*/
-	background: url('../images/testimonigalamilk.gif') center center no-repeat;
+	/*TESTIMONI*/
+	/*background: url('../images/halaman2galamilk.png') center center no-repeat;*/
 	background-size: cover; 
 }
 
